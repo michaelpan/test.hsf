@@ -6,7 +6,7 @@
 	
 	<bean id="hsfTestBean" class="com.taobao.hsf.app.spring.util.HSFSpringProviderBean" init-method="init">
 		<property name="serviceInterface" value="com.mitch3.test.hsf.api.IHSFTestInterface"/>
-		<property name="target" value="hsfTestBean.local"/>
+		<property name="target" ref="hsfTestBean.local"/>
 		<property name="serviceVersion" value="1.0.0.pangl"/>
 	</bean>
 </beans>
