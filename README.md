@@ -1,4 +1,4 @@
-TAOBAO HSF-Standalone DEMO
+TAOBAO HSF DEMO
 =====================================
 #### Useage:
 1. download all source code to any folder, called **source folder**
