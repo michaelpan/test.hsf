@@ -1,7 +1,5 @@
 package com.mitch3.test.hsf.client;
 
-import java.io.File;
-
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.mitch3.test.hsf.api.IHSFTestInterface;
